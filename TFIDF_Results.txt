@@ -1,0 +1,160 @@
+179736 Owner User ID
+
+           word  tfidf_score
+880    override     0.102581
+74          cnf     0.054001
+366   ppassword     0.039471
+2     ,manually     0.024073
+525     ,concat     0.013446
+415     running     0.010410
+207       group     0.010410
+1094       wall     0.008892
+907       putty     0.008024
+987      synced     0.007374
+
+
+
+95592 Owner User ID
+
+         word  tfidf_score
+22      clean     0.072950
+312  override     0.050355
+71     global     0.029051
+288       log     0.028405
+81        img     0.019367
+75   homebrew     0.019367
+255     glyph     0.018076
+333    pysudo     0.018076
+258     hints     0.016785
+122        pg     0.016139
+
+
+
+6068 Owner User ID
+
+          word  tfidf_score
+600   override     0.078132
+57   classpath     0.028738
+370       ,why     0.016614
+358        sys     0.016165
+485         ff     0.010777
+365      ,call     0.010777
+724    warning     0.008981
+662  specified     0.008532
+439          d     0.008083
+553         ll     0.007634
+
+
+
+49153 Owner User ID
+
+             word  tfidf_score
+948   overwriting     0.095373
+92         clinit     0.070617
+376     practical     0.024756
+572         ,what     0.016843
+226         group     0.016640
+875          lost     0.009334
+1118        users     0.008523
+963   personality     0.008523
+39            arr     0.008320
+555      ,getting     0.008320
+
+
+
+51816 Owner User ID
+
+         word  tfidf_score
+618  override     0.106743
+65        clr     0.082684
+284  practice     0.036598
+633     pyfor     0.021349
+12    ,string     0.021349
+567      link     0.011183
+691  subtract     0.010505
+171     green     0.010166
+352       str     0.009488
+372  ,getting     0.008811
+
+
+
+4883 Owner User ID
+
+          word  tfidf_score
+375       over     0.107667
+6       ,which     0.027732
+34       chunk     0.025285
+466    writing     0.013051
+467          x     0.013051
+149   practice     0.013051
+390     psuedo     0.011419
+183    running     0.008972
+228  ,checking     0.008157
+311         gc     0.008157
+
+
+
+87234 Owner User ID
+
+          word  tfidf_score
+5       brings     0.060311
+150   override     0.042802
+138       loop     0.040856
+8       clocks     0.035019
+113       dark     0.035019
+43        less     0.031128
+97      arrays     0.019455
+41   initially     0.019455
+15       const     0.015564
+35       group     0.015564
+
+
+
+63051 Owner User ID
+
+            word  tfidf_score
+464         over     0.117582
+44           cnn     0.063228
+6         ,xpath     0.028286
+206     possibly     0.025513
+392        field     0.013311
+156       levels     0.012202
+122         good     0.009429
+591          vim     0.009429
+321   background     0.007765
+378  elementtype     0.007765
+
+
+
+9951 Owner User ID
+
+          word  tfidf_score
+466   overflow     0.105197
+53     closure     0.068253
+164      leads     0.030056
+291       ,why     0.015654
+382        gil     0.010019
+159        key     0.009393
+555        usb     0.009393
+567       ugly     0.008766
+574         ur     0.008766
+483  pychecker     0.008140
+
+
+
+89904 Owner User ID
+
+                   word  tfidf_score
+197                 out     0.096970
+29              changes     0.052525
+225                   t     0.024242
+55              fractal     0.020202
+100              server     0.020202
+162  getappdatalocation     0.020202
+120               ,open     0.020202
+150                 exe     0.016162
+83             possible     0.016162
+190               never     0.014141
+
+
+
