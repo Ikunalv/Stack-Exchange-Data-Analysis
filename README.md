@@ -1,4 +1,4 @@
-# Stack Overflow data analysis
+# Stack Overflow Data Analysis
 
 Data analysis of top 200,000 Stack Overflow queries with respect to their view count.
 
